@@ -3,8 +3,6 @@
 **Junior Backend · Node.js / TypeScript.** Ищу удалённую работу или стажировку.  
 *Open to remote Junior Backend roles and internships.*
 
-Чебоксары, Россия · 19 лет. Студент Чебоксарского филиала РАНХиГС, специальность — программирование, выпуск 2028.
-
 ## Стек
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![grammY](https://img.shields.io/badge/grammY-0098D4?style=flat) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
